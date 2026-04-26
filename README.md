@@ -2,9 +2,9 @@
 
 🚀 A structured, hands-on journey through Machine Learning concepts, algorithms, and real-world implementations.
 
-![Python](https://img.shields.io/badge/Python-3.x-blue)
-![ML](https://img.shields.io/badge/Machine%20Learning-Active-green)
-![Status](https://img.shields.io/badge/Progress-Ongoing-orange)
+[![Python](https://img.shields.io/badge/Python-3.x-blue)](https://www.python.org/)
+[![ML](https://img.shields.io/badge/Machine%20Learning-Active-green)](https://scikit-learn.org/)
+[![Status](https://img.shields.io/badge/Progress-Ongoing-orange)](https://github.com/Girjendra/machine-learning-journey)
 
 ---
 
